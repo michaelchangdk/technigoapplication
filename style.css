@@ -1,0 +1,47 @@
+body {
+  align-self: center;
+  background-color: #364F6B;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  color: #112D4E;
+  text-align: center;
+}
+
+h3 {
+  color: #112D4E;
+}
+
+p {
+  color: #112D4E;
+  font-weight: 300;
+}
+
+a {
+  font-weight: 300;
+}
+
+hr {
+  border-color: #112D4E;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 10%;
+}
+
+.container {
+  background: linear-gradient(#71C9CE, #E3FDFD);
+  border-radius: 5%;
+  max-width: 500px;
+  min-width: 400px;
+  width: 40%;
+  padding: 2%;
+  position: relative;
+  margin: auto;
+  margin-top: 10%;
+}
+
+a:hover {
+  background-color: white;
+}
